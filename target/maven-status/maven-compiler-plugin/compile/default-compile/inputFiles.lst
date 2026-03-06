@@ -1,0 +1,9 @@
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\core\DocumentType.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\core\DocumentValidator.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\core\OcrTextSaver.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\core\ValidationResult.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\Main.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\ocr\OcrService.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\validator\PayslipValidator.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\validator\RentReceiptValidator.java
+C:\dev\document-validator\src\main\java\com\benoit\docvalidator\validator\UtilityBillValidator.java
