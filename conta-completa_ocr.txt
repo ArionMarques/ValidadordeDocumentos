@@ -1,0 +1,104 @@
+DANF3E - DOCUMENTO AUXILIAR DA NOTA
+FISCAL DE ENERGIA ELETRICA ELETRÔNICA
+RGE SUL DISTRIBUIDORA DE ENERGIA S.A.
+N AVENIDA SÃO BORUJA, 2801 - - FAZENDA SÃO BORJA - SAO LEOPOLDO - RS
+. CEP:93032-525 - Inscrição Estadual: 124/0305939 - Inscrição no CNPJ: 02.016.440/0001-62
+Uma empresa CPFL Energia
+ARION MOISES FROHLICH MARQUES
+R TIRADENTES 342 LJ 2302005
+CENTRO
+95800-000 VENANCIO AIRES RS
+LOTE Roteiro de Leitura NºMedidor | Páginas | Data de Apresentação Leitura Próximo Mês Data de Vencimento
+02 VAIBUO99-00000000 1/2 05/02/2026 05/03/2026 09/03/2026
+Classificação: Convencional B2 Rural Agropecuária Rural Tipo de Fornecimento:
+Monofásico
+TENSÃO NOMINAL EM VOLTS  Disp.: 220 Lim. mín.: 202 Lim. máx.: 231 Código da Instalação Datas de leituras
+Leitura atual | Leitura anterior | Nº de dias
+03/02/2026 06/01/2026 28
+ARION MOISES FROHLICH MARQUES 4003203633 a
+EST TANGERINA. 2001 Próxima leitura 05/03/2026
+RURAL VENÂNCIO AIRES - RS ACESSE AQUI O XML DA SUA NF
+95800-000
+INSC.EST: 1551171403 / CPF: 001.874.690-08 NOTA FISCAL Nº 145454396 - SÉRIE 0 / DATA DE EMISSÃO:
+04/02/2026 DEDO Los po
+Consulte pela chave de Acesso em: ipi : 1]
+https://dfe-portal.svrs.rs.gov.br/NF3E/Consulta FERAS: AM
+Ref: mês/ano Vencimento Totala pagar chave de acesso: Et Eita
+43260202016440000162660001454543961010732710 rap ara
+FEV/2026 09/03/2026 R$ 295,16 Protocolo de autorização: 1432600006417299 -05.02.2026 às 01:09:59 [IRS A DRM
+. .
+Aviso importante
+Em virtude da postergação da REN 1095/24 pela ANEEL, a alteração do seu Código de Instalação para o novo padrão prevista para jan/26 será adiada. Informaremos uma
+nova data em breve.
+Faturamento por média Leitura plurimensal.
+CDE Escassez Hídrica TUSD R$ 0,26 TE R$ -6,00
+Em cumprimento à LC 214/2025, esta fatura apresenta, desde 28/12/2025, os
+valores simulados de IBS (0,10%) R$0,26 e CBS (0,90%) R$2,32. Sem
+cobrança ao cliente.
+Descrição da operação Unid. Quant. Tarifa Tarifa com Valortotalda | Base Cálc. | Alíg. ICMS PIS COFINS Tributo | BasedeCálc. | Alíquota Valor
+Nº 908304175622 Med. | Faturada ANEEL tributosR$  operaçãoRS | ICMS | ICMS% 0,84% | 386% R$) (6 (RS)
+É icus 9806 12,00 114,77
+Consumo Uso Sistema [KWh]-TUSD FEV/26 kWh 214,0000 0,51775000 0,54317758 116,24 0,97 4,48) |pIsIPASEP 27089 084 227
+Consumo Uso Sistema [KWh]-TUSD FEV/26 kWh 100,0000 0,51775000 0,61750000 61,75 61,75 12,00 74 0,46 2,10 COFINS 270,89 3,86 10,45
+Consumo - TE FEV/26 kWh 214,0000 0,30445000 0,31943926 68,36 0,57 2,64
+Consumo , TE FEV/26 kwh 100,0000 0,30445000 0,36310000 36,31 36,31 12,00 4,36 0,27 1,23 Consumo / kWh
+Total Distribuidora 282,66 -
+DÉBITOS DE OUTROS SERVIÇOS Consumo faturado a Miss
+Contribuição Custeio IP-CIP FEV/26 12,50 JaNZo 356 29
+Dez2s 36 a
+nov2 223 29
+our25 E 164 a
+ser2 EH 322 30
+aco25 EH E 32
+JuL25 am 30
+JUNZ5 234 29
+mais 250 33
+aBr2s EM 280 28
+MaR25 529 30
+rev2s sm 29
+Total consolidado 295,16 98,06 114,77 227 10,45
+Medidor Grandezas notários | Ameior | Rat | eder | ro Reservado ao Fisco Bandeiras
+Tarifárias
+14032414 Energia Ativa-kWh único 13710 14024 1,00 314 Verde 25 Dias
+Verde 03 Dias
+Taxa de Perdas %
+— Indicadores de continuidade de fornecimento de energia: Para consulta dos indicadores acesse nosso site www.rgers.combr|||
+Eelseprsauers a] | DANF3E/Nota Fiscal | CódDébAut-Banco | Total a Pagar (R$) | Data de Vencimento
+F] RR ra | Conta de Energia Elétrica 110023160857 295,16 09/03/2026
+RR Sie | 145454396 Série O
+Ee et E
+EPT Pao
+piis fpros
+PIX - Pague Aqui Como pagar via PIX: , autenticação mecânica
+1) Abra o app do seu banco e vá na área PIX
+E Petioo Fl | 2) Escaneie o QR Code
+= e seguro 3) Confirme os dados da transação
+Pronto. Conta paga e assunto resolvido!
+Baixe o app Resolva com alguns cliques Atendimento telefônico
+Acesse WWw.cpfl.com.br ou o aplicativo CPFL Energia para: * 0800 970 09 00
+ad «” Consultar débitos, solicitar 22 via de conta, trocar o nome da fatura, informar falta de energia, solicitar desligamento do imóvel, consultar Ligação gratuita de telefones fixos e móveis.
+po regras de cobrança de CIP e Informações sobre os indicadores de continuidade e sua apuração.
+CPFL » Obter informações sobre seus atendimentos comerciais, condições gerais de fornecimento, tarifas, produtos, serviços prestados e tributos. Atendimento exclusivo para portadores
+A de deficiência auditiva e de fala [5]
+o, Conta fácil Conta digital & 0800 774 4120
+: ; Acesse a Conta Fácil, um Escolha a Conta Digital, para recebersua Ligação gratuita de telefones adaptados fixos
+Disponível para jeito simples de entender conta por email ou SMS, de forma mais Ouvidoria
+Android e iPhone seu consumo. prática, segura e sustentável. € 080054133 36
+Ligação gratuita de telefones fixos e móveis
+CONFORME LEGISLAÇÃO ANEEL Agência Nacional de Energia Elétrica
+Indicadores de continuidade do fornecimento de energia Limite de Tensão (volts) VIGENTE, APÓS VENCIMENTO 6 167 Ligação gratuita de telefones fios emrei
+Nominal Lim. Inferior Lim. Superior INCIDIRÁ MULTA DE 2%, JUROS
+115 106 121 DE MORA DE 0,033% AO DIA E
+DIC = Duração de Interrupção Individual por unidade consumidora (hora/mês) 120 110 126 ATUALIZAÇÃO MONETÁRIA EM
+FIC = Frequência de Interrupção Individual por unidade consumidora (gtd./mês) 127 117 133 CONTA FUTURA.
+DMIC = Duração Máxima de Interrupção Individual por unidade consumidora (hora/mês) 220 202 231
+EUSD = Valor mensal do Encargo de Uso do Sistema de Distribuição 230 212 242 Y MISTO
+= du a . om . . 240 221 252 L3 Papel | Apolando o manejo
+o teor n e nua N ” dia no ” ne cremt (hora) n 380 350 399 ESC florest ável
+so ocorra violação dos padrões destes indicadores, você tem o direito de receber uma compensação monetária Médulo 8 do PRODIST - ANEEL duos FSCº 002688
+RGE Sul Distribuidora de Energia SA | Or Endereço insuf ão | ReintegradoaoServiçoPostalem: 1 4 |
+dh Í ; : ço insuficiente 08. Não procurado | eg ç |
+DEVOLUÇÃO ELETRÔNICA - CEDO | PARA Closnioexsteonindiado [E 09.Objeto danificado | Rúbricad | |
+Avenida São Borja, 2801 | e - DosFalecido B 10.63. cdesconhecidonatocalidade | RúbricadoResponsável: |
+Bairro Fazenda São Borja | * [J05.Desconhecido DD 11. Falta complemento E Matricula A
+CEP 93032-525 - São Leopoldo - RS Ei É rio

@@ -1,0 +1,54 @@
+oGEioafEcRESADSDS Recibo de Pagamento de Salário
+
+CNPJ: 00.000.000/001-36 JANEIRO/2012 5
+
+Código Nome do Funcionário cBo Emp. Local Depto. Setor Seção FI. 8
+
+025 NOME FUNCIONARIO(Arley G. VIEIRA) 7825-10 - Professor E
+uu e
+Cód. Descrição Referência Vencimentos Descontos Q E
+101 SALARIOS , 30,00d 2.500,00 ã 8
+973 INSS , 1% 275,00 2 H
+987 IRFF S.SALARIO 7,5% 54,83 E =
+z 8
+
+E
+<
+É E
+3 2
+
+5
+
+«<
+
+õ
+
+z
+
+e
+
+2
+
+=
+
+«<
+
+8
+
+a
+
+3
+
+&
+a E
+- = =
+Total de Vencimentos Total de Descontos ps [=]
+
+2500,00 329,83 o
+
+Valor Líquido [me 2.170,17 E
+
+a)
+
+Salário Base Sal. Contr. INSS Base Cálc. FGTS FGTS do Mês Base Cálc. IRRF Faixa IRRF
+2.500,00 2.500,00 2.500,00 200,00 2225,00 e2

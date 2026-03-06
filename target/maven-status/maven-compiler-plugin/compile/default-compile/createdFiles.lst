@@ -1,0 +1,10 @@
+com\benoit\docvalidator\core\ValidationResult.class
+com\benoit\docvalidator\validator\UtilityBillValidator.class
+com\benoit\docvalidator\validator\RentReceiptValidator.class
+com\benoit\docvalidator\core\DocumentType.class
+com\benoit\docvalidator\core\DocumentValidator.class
+com\benoit\docvalidator\core\OcrTextSaver.class
+com\benoit\docvalidator\Main$1.class
+com\benoit\docvalidator\ocr\OcrService.class
+com\benoit\docvalidator\validator\PayslipValidator.class
+com\benoit\docvalidator\Main.class
