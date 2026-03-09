@@ -1,6 +1,8 @@
 package com.benoit.docvalidator.core;
 
 public enum DocumentType {
+    CNH,
+    CRLV,
     PAYSLIP,
     UTILITY_BILL,
     RENT_RECEIPT;
