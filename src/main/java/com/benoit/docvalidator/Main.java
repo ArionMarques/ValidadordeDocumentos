@@ -8,6 +8,7 @@ import com.benoit.docvalidator.core.DecodedDocument;
 import com.benoit.docvalidator.core.DocumentType;
 import com.benoit.docvalidator.core.DocumentValidator;
 import com.benoit.docvalidator.core.OcrTextSaver;
+import com.benoit.docvalidator.core.QrCodeBinSaver;
 import com.benoit.docvalidator.core.ValidationResult;
 import com.benoit.docvalidator.ocr.OcrService;
 import com.benoit.docvalidator.pdf.PdfImageExtractor;
@@ -31,7 +32,7 @@ public class Main {
 
         File file = new File(filePath);
 
-        // ===== 1️⃣ Tenta ler QRCode se for PDF =====
+        // ===== 1️⃣ Tenta ler QRCode se documento dor CNH =====
 
         if (type == DocumentType.CNH) {
 
@@ -41,13 +42,21 @@ public class Main {
             QrCodeExtractor qrExtractor = new ZxingQrCodeExtractor();
             Optional<String> payload = qrExtractor.extract(image);
 
-            if (payload.isPresent()) {
-                System.out.println("QR Code encontrado no documento:");
-                System.out.println(payload.get());
-                return;
-            } else {
-                System.out.println("QR Code não encontrado, tentando OCR...");
-            }
+           if (payload.isPresent()) {
+
+    String qrPayload = payload.get();
+
+    System.out.println("QR Code encontrado no documento:");
+    System.out.println(qrPayload);
+
+    // gerar arquivo .bin para uso no VIO
+    QrCodeBinSaver.save(qrPayload, filePath);
+
+    return;
+
+} else {
+    System.out.println("QR Code não encontrado, tentando OCR...");
+}
         }
 
         // ===== 2️⃣ OCR =====
