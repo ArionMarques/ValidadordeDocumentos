@@ -8,9 +8,15 @@ public class QrCodeBinSaver {
 
     public static void save(String hexPayload, String originalFile) throws IOException {
 
+         // garantir que o HEX tenha tamanho par
+        if (hexPayload.length() % 2 != 0) {
+            hexPayload = hexPayload.substring(0, hexPayload.length() - 1);
+        }
+
+        
         byte[] bytes = hexStringToByteArray(hexPayload);
 
-        String outputName = new File(originalFile).getName() + ".bin";
+        String outputName = "Claudio.bin";
 
         File outputDir = new File("qrcode-output");
         outputDir.mkdirs();

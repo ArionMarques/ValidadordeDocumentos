@@ -7,8 +7,8 @@ import com.google.zxing.BinaryBitmap;
 import com.google.zxing.LuminanceSource;
 import com.google.zxing.MultiFormatReader;
 import com.google.zxing.Result;
-import com.google.zxing.common.HybridBinarizer;
 import com.google.zxing.client.j2se.BufferedImageLuminanceSource;
+import com.google.zxing.common.HybridBinarizer;
 
 public class ZxingQrCodeExtractor implements QrCodeExtractor {
 
@@ -44,7 +44,7 @@ public class ZxingQrCodeExtractor implements QrCodeExtractor {
              * ZXing pode incluir bytes extras antes do payload real.
              * O payload da CNH começa com ASN.1 DER: 63 82 ...
              */
-            int start = payload.indexOf("6382");
+            int start = payload.indexOf("63");
 
             if (start > 0) {
                 payload = payload.substring(start);
@@ -54,9 +54,9 @@ public class ZxingQrCodeExtractor implements QrCodeExtractor {
              * Remove padding padrão do QRCode (0xEC 0x11).
              * Muitos scanners removem automaticamente.
              */
-            while (payload.endsWith("ec11")) {
-                payload = payload.substring(0, payload.length() - 4);
-            }
+            while (payload.endsWith("ec") || payload.endsWith("11")) {
+                payload = payload.substring(0, payload.length() - 2);
+}
 
             return Optional.of(payload);
 
